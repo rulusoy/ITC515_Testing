@@ -4,7 +4,7 @@ import java.io.Serializable;
 @SuppressWarnings("serial")
 public class book implements Serializable {
 	
-	private String T;
+	private String title; //this is the first testing - change T to title
 	private String A;
 	private String C;
 	private int ID;
